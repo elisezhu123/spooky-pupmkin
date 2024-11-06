@@ -5,8 +5,8 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     private float horizontal;
-    private float speed = 120f;
-    private float jumpingPower = 16f;
+    private float speed = 300f;
+    private float jumpingPower = 100f;
     private bool isFacingRight = true;
 
     [SerializeField] private Rigidbody2D rb;
@@ -24,7 +24,7 @@ public class PlayerMovement : MonoBehaviour
 
         if (Input.GetButtonUp("Jump") && rb.linearVelocity.y > 0f)
         {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y * 0.5f);
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y * 1f); // Reduce the jump height
         }
 
         Flip();

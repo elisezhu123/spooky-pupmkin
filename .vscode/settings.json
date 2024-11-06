@@ -56,5 +56,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "spooky-pupmkin.sln"
+    "dotnet.defaultSolution": "spooky-pupmkin.sln",
+    "Codegeex.RepoIndex": true
 }
