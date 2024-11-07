@@ -11,7 +11,7 @@ public class Player_movement : MonoBehaviour
     public LayerMask groundLayer;
     private float horizontal;
     private float speed = 300f;
-    private float jumpingPower = 200f;
+    private float jumpingPower = 300f;
     private bool isFacingRight = true;
     // Start is called before the first frame update
     void Start()
@@ -42,7 +42,7 @@ public class Player_movement : MonoBehaviour
         }
         if (context.canceled && rb.linearVelocity.y > 0)
         {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y * 0.5f);
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y * 0.1f); 
         }
     }
 
@@ -54,7 +54,7 @@ public class Player_movement : MonoBehaviour
     {
         isFacingRight = !isFacingRight;
 
-        transform.Rotate(0f, 180f, 0f);
+        transform.Rotate(0f, 180f, 0f); 
     }
 
     public void Move(InputAction.CallbackContext context)
