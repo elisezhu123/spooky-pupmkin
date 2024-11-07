@@ -2,11 +2,13 @@ using UnityEngine;
 
 public class FallingObjects : MonoBehaviour
 {
+    public Animator animator;
     Score main;
     Transform tr;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start() //`Start` is called once before the first execution of `Update` after the MonoBehaviour is created
     {
+        animator = GetComponent<Animator>();
         tr= GetComponent<Transform>();
         main = GameObject.Find("FallingObjects").GetComponent<Score>(); // Get the reference to the main script
     }

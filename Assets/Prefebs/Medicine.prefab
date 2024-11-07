@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 8283813610636002464}
   - component: {fileID: 6574783522242011024}
   - component: {fileID: -589916630296911977}
+  - component: {fileID: 8969023549489988088}
   m_Layer: 0
   m_Name: Medicine
   m_TagString: Untagged
@@ -217,3 +218,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3144162e042894872b902dcfdfbede03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!111 &8969023549489988088
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2707299721511566904}
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Animation: {fileID: 7400000, guid: a375d008f0efc4aa7a42c5ec4d35fa6d, type: 2}
+  m_Animations: []
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_UpdateMode: 0
+  m_CullingType: 0

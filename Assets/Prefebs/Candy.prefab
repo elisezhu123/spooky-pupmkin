@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 2201207966207725630}
   - component: {fileID: 3095333051610296436}
   - component: {fileID: -8843684728690370029}
+  - component: {fileID: 7003687580837107930}
   m_Layer: 0
   m_Name: Candy
   m_TagString: Untagged
@@ -238,3 +239,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3144162e042894872b902dcfdfbede03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!111 &7003687580837107930
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6932107036278547990}
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Animation: {fileID: 7400000, guid: 51f5f4f6e73574a459baacc456ccf4e1, type: 2}
+  m_Animations: []
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_UpdateMode: 0
+  m_CullingType: 0
