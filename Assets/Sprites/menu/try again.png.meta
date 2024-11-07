@@ -1,34 +1,31 @@
 fileFormatVersion: 2
-guid: 9f187dbdab89a42c9ae19fc3abdc6c17
+guid: 7143bb3adb67a449f9bb10212d5e27c6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7862659015092834778
-    second: try agin_0
+      213: 5169822967539212130
+    second: try again_0
   - first:
-      213: 8181856210268716120
-    second: try agin_1
+      213: 9117645024825055410
+    second: try again_1
   - first:
-      213: -7659651971653128722
-    second: try agin_2
+      213: -6134052396061823042
+    second: try again_2
   - first:
-      213: 3795436053850648186
-    second: try agin_3
+      213: -3991523524025479361
+    second: try again_3
   - first:
-      213: -2020023630125769123
-    second: try agin_4
+      213: 7232193251900359105
+    second: try again_4
   - first:
-      213: -1258091448267428319
-    second: try agin_5
+      213: 5679327646493062352
+    second: try again_5
   - first:
-      213: 3849207363270861555
-    second: try agin_6
+      213: -4109916020554914471
+    second: try again_6
   - first:
-      213: -1718174674740074913
-    second: try agin_7
-  - first:
-      213: 1004439381614623203
-    second: try agin_8
+      213: -8170919689600913602
+    second: try again_7
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -163,13 +160,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: try agin_0
+      name: try again_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 11
-        width: 22
-        height: 30
+        x: 0
+        y: 6
+        width: 12
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -178,20 +175,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ad191a057b6cd1d60800000000000000
-      internalID: 7862659015092834778
+      spriteID: 26f94db1996eeb740800000000000000
+      internalID: 5169822967539212130
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: try agin_1
+      name: try again_1
       rect:
         serializedVersion: 2
-        x: 105
-        y: 11
-        width: 22
-        height: 30
+        x: 13
+        y: 6
+        width: 12
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -200,20 +197,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 85cf368bfdacb8170800000000000000
-      internalID: 8181856210268716120
+      spriteID: 2b81eccb7d1688e70800000000000000
+      internalID: 9117645024825055410
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: try agin_2
+      name: try again_2
       rect:
         serializedVersion: 2
-        x: 190
-        y: 35
-        width: 8
-        height: 6
+        x: 25
+        y: 6
+        width: 12
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -222,20 +219,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: eedae764d1373b590800000000000000
-      internalID: -7659651971653128722
+      spriteID: ebfe91b68d77fdaa0800000000000000
+      internalID: -6134052396061823042
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: try agin_3
+      name: try again_3
       rect:
         serializedVersion: 2
-        x: 27
-        y: 11
-        width: 22
-        height: 22
+        x: 50
+        y: 6
+        width: 12
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -244,20 +241,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a7e6a7d5bf81ca430800000000000000
-      internalID: 3795436053850648186
+      spriteID: f3f88ddb0824b98c0800000000000000
+      internalID: -3991523524025479361
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: try agin_4
+      name: try again_4
       rect:
         serializedVersion: 2
-        x: 52
-        y: 3
-        width: 23
-        height: 30
+        x: 63
+        y: 6
+        width: 12
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -266,20 +263,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d5e5570063f67f3e0800000000000000
-      internalID: -2020023630125769123
+      spriteID: 1c18f7ed179ed5460800000000000000
+      internalID: 7232193251900359105
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: try agin_5
+      name: try again_5
       rect:
         serializedVersion: 2
-        x: 131
-        y: 3
-        width: 22
-        height: 30
+        x: 75
+        y: 6
+        width: 12
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -288,20 +285,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 12e20135e7c5a8ee0800000000000000
-      internalID: -1258091448267428319
+      spriteID: 0d43644776601de40800000000000000
+      internalID: 5679327646493062352
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: try agin_6
+      name: try again_6
       rect:
         serializedVersion: 2
-        x: 157
-        y: 11
-        width: 22
-        height: 22
+        x: 89
+        y: 6
+        width: 9
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -310,20 +307,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3f2e392f3b12b6530800000000000000
-      internalID: 3849207363270861555
+      spriteID: 95523229725a6f6c0800000000000000
+      internalID: -4109916020554914471
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: try agin_7
+      name: try again_7
       rect:
         serializedVersion: 2
-        x: 185
-        y: 11
-        width: 18
-        height: 22
+        x: 100
+        y: 6
+        width: 12
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -332,30 +329,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f56ab029c31d728e0800000000000000
-      internalID: -1718174674740074913
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: try agin_8
-      rect:
-        serializedVersion: 2
-        x: 210
-        y: 11
-        width: 22
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3e97d8bbb4c70fd00800000000000000
-      internalID: 1004439381614623203
+      spriteID: e3fa71d65df0b9e80800000000000000
+      internalID: -8170919689600913602
       vertices: []
       indices: 
       edges: []
@@ -373,16 +348,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      try agin_0: 7862659015092834778
-      try agin_1: 8181856210268716120
-      try agin_2: -7659651971653128722
-      try agin_3: 3795436053850648186
-      try agin_4: -2020023630125769123
-      try agin_5: -1258091448267428319
-      try agin_6: 3849207363270861555
-      try agin_7: -1718174674740074913
-      try agin_8: 1004439381614623203
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

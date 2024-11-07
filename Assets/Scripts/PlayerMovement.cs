@@ -42,13 +42,13 @@ public class Player_movement : MonoBehaviour
         }
         if (context.canceled && rb.linearVelocity.y > 0)
         {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y * 0.1f); 
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y * 0.5f); 
         }
     }
 
     public bool IsGrounded()
     {
-        return Physics2D.OverlapCircle(groundCheck.position, 0.1f, groundLayer);
+        return Physics2D.OverlapCircle(groundCheck.position, 1f, groundLayer); 
     }
     private void Flip()
     {
