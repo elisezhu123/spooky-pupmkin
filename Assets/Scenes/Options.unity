@@ -285,8 +285,8 @@ Canvas:
   m_GameObject: {fileID: 187304444}
   m_Enabled: 1
   serializedVersion: 3
-  m_RenderMode: 0
-  m_Camera: {fileID: 0}
+  m_RenderMode: 1
+  m_Camera: {fileID: 461916307}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
   m_ReceivesEvents: 1
@@ -440,15 +440,15 @@ RectTransform:
   m_GameObject: {fileID: 633927585}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 12.999288, y: 6.61, z: 12.999288}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 22.450836, y: 11.416013, z: 22.450836}
+  m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 187304448}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -244}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 0, y: -211}
+  m_SizeDelta: {x: 52.2181, y: 50.3896}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &633927587
 MonoBehaviour:
@@ -600,7 +600,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 468, y: -19}
+  m_AnchoredPosition: {x: 424, y: -16}
   m_SizeDelta: {x: 80, y: 54.668}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1779431825
