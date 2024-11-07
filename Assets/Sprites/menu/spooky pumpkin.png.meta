@@ -498,7 +498,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spooky pumpkin_0: -1839037119325212367
+      spooky pumpkin_1: -7290933349369426507
+      spooky pumpkin_10: 5536939621285210742
+      spooky pumpkin_11: 1501836013579877829
+      spooky pumpkin_12: -5351932398813014497
+      spooky pumpkin_13: -5396909368185865329
+      spooky pumpkin_2: -8432756184125653009
+      spooky pumpkin_3: -76487167843222991
+      spooky pumpkin_4: 3220990549650422581
+      spooky pumpkin_5: -1032733839216184387
+      spooky pumpkin_6: 9985987759548331
+      spooky pumpkin_7: 4530971746361686333
+      spooky pumpkin_8: 7205564986307843678
+      spooky pumpkin_9: 5058646538513954145
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

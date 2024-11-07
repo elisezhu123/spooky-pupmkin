@@ -15,7 +15,7 @@ public class FallingObjects : MonoBehaviour
     void FixedUpdate() 
     {
         // Example functionality: Move the object downwards
-        tr.position -= new Vector3(0, 3f, 0); // Move the object downwards by 0.1 units per frame
+        tr.position -= new Vector3(0, 4f, 0); // Move the object downwards by 0.1 units per frame
         if (tr.position.y < -2f) // Check if the object is below -7 units in the y-axis
         {
             Destroy(gameObject); // Destroy the object    if it goes below -7 units in the y-axis
