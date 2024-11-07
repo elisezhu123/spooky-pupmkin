@@ -1,0 +1,1581 @@
+fileFormatVersion: 2
+guid: 54bbd2bf3cbc349c29c6b75880595a52
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2943636169679924439
+    second: option mentu_0
+  - first:
+      213: 5167266363111447004
+    second: option mentu_1
+  - first:
+      213: 8265583021297484742
+    second: option mentu_2
+  - first:
+      213: 107972122953454496
+    second: option mentu_3
+  - first:
+      213: -8495760022259205962
+    second: option mentu_4
+  - first:
+      213: 8852361598126975563
+    second: option mentu_5
+  - first:
+      213: -714741701009209644
+    second: option mentu_6
+  - first:
+      213: -3278633974166231797
+    second: option mentu_7
+  - first:
+      213: 6942648775999342530
+    second: option mentu_8
+  - first:
+      213: 2949470134639391095
+    second: option mentu_9
+  - first:
+      213: -115688940892164397
+    second: option mentu_10
+  - first:
+      213: 5123975425092906949
+    second: option mentu_11
+  - first:
+      213: -7113030563508485849
+    second: option mentu_12
+  - first:
+      213: 8065829091896276807
+    second: option mentu_13
+  - first:
+      213: -838665862395890293
+    second: option mentu_14
+  - first:
+      213: 1786168321695778229
+    second: option mentu_15
+  - first:
+      213: 6301235062273984636
+    second: option mentu_16
+  - first:
+      213: -1202143020673591217
+    second: option mentu_17
+  - first:
+      213: -5742218222292754249
+    second: option mentu_18
+  - first:
+      213: 4124385491113293192
+    second: option mentu_19
+  - first:
+      213: 5684502254048506145
+    second: option mentu_20
+  - first:
+      213: -5540357565623703481
+    second: option mentu_21
+  - first:
+      213: 8124448883780745201
+    second: option mentu_22
+  - first:
+      213: -1719272694757327267
+    second: option mentu_23
+  - first:
+      213: 8581557197961543412
+    second: option mentu_24
+  - first:
+      213: 270016867756079055
+    second: option mentu_25
+  - first:
+      213: 8751268283005914000
+    second: option mentu_26
+  - first:
+      213: 7872799000211468853
+    second: option mentu_27
+  - first:
+      213: 5746087403530209955
+    second: option mentu_28
+  - first:
+      213: -5903395306327694990
+    second: option mentu_29
+  - first:
+      213: -6480553428322973709
+    second: option mentu_30
+  - first:
+      213: -5866873907788222189
+    second: option mentu_31
+  - first:
+      213: -6498025665748027648
+    second: option mentu_32
+  - first:
+      213: -5757878962903231920
+    second: option mentu_33
+  - first:
+      213: -5763345810847837403
+    second: option mentu_34
+  - first:
+      213: 6492254572441740428
+    second: option mentu_35
+  - first:
+      213: -7203267633871478369
+    second: option mentu_36
+  - first:
+      213: 3331272645839069074
+    second: option mentu_37
+  - first:
+      213: 502111730897881133
+    second: option mentu_38
+  - first:
+      213: 5565211641951128177
+    second: option mentu_39
+  - first:
+      213: -7437501554778070641
+    second: option mentu_40
+  - first:
+      213: 5869092279446567251
+    second: option mentu_41
+  - first:
+      213: 557593216336120896
+    second: option mentu_42
+  - first:
+      213: -5059757357899256453
+    second: option mentu_43
+  - first:
+      213: -7755551885381566132
+    second: option mentu_44
+  - first:
+      213: -4586599350862457701
+    second: option mentu_45
+  - first:
+      213: -3331737900515644920
+    second: option mentu_46
+  - first:
+      213: 8018568181110890589
+    second: option mentu_47
+  - first:
+      213: -7160432109814883029
+    second: option mentu_48
+  - first:
+      213: 7284520234673374788
+    second: option mentu_49
+  - first:
+      213: 486554814307728282
+    second: option mentu_50
+  - first:
+      213: 2167776263604448623
+    second: option mentu_51
+  - first:
+      213: 3945521776241158299
+    second: option mentu_52
+  - first:
+      213: 1057818802292725366
+    second: option mentu_53
+  - first:
+      213: 4428069607594893501
+    second: option mentu_54
+  - first:
+      213: 8783660360356855938
+    second: option mentu_55
+  - first:
+      213: 8100086676038819033
+    second: option mentu_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: option mentu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 133
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9239c3eef7a1627d0800000000000000
+      internalID: -2943636169679924439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 315
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd915114161d5b740800000000000000
+      internalID: 5167266363111447004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 326
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3cfe507ff35b270800000000000000
+      internalID: 8265583021297484742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 308
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a31942e2189f7100800000000000000
+      internalID: 107972122953454496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 306
+        width: 142
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b87640b54ff81a80800000000000000
+      internalID: -8495760022259205962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_5
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 308
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4aeaafb8f7e9da70800000000000000
+      internalID: 8852361598126975563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_6
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 315
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d60035b53ab416f0800000000000000
+      internalID: -714741701009209644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_7
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 326
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b056b4d75c3ff72d0800000000000000
+      internalID: -3278633974166231797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_8
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 255
+        width: 134
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7cdbd274e395060800000000000000
+      internalID: 6942648775999342530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_9
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 316
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771fdc2e57f9ee820800000000000000
+      internalID: 2949470134639391095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_10
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 316
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de6ead658df46ef0800000000000000
+      internalID: -115688940892164397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 24
+        width: 491
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf6e7a40840c1740800000000000000
+      internalID: 5123975425092906949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_12
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 308
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72184919360794d90800000000000000
+      internalID: -7113030563508485849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_13
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 308
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7473d7113d49fef60800000000000000
+      internalID: 8065829091896276807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 244
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8575a277d57c54f0800000000000000
+      internalID: -838665862395890293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_15
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 241
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b58bb300aeb9c810800000000000000
+      internalID: 1786168321695778229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 244
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78c31d57eb727750800000000000000
+      internalID: 6301235062273984636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_17
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 244
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48198bba41215fe0800000000000000
+      internalID: -1202143020673591217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_18
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 241
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0277d43fa8f40b0800000000000000
+      internalID: -5742218222292754249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_19
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 244
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885359290c2cc3930800000000000000
+      internalID: 4124385491113293192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 219
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121f779aea863ee40800000000000000
+      internalID: 5684502254048506145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 210
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748e95ce522bc13b0800000000000000
+      internalID: -5540357565623703481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_22
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 219
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7f191f637dfb070800000000000000
+      internalID: 8124448883780745201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_23
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 219
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ef5fcd79ae328e0800000000000000
+      internalID: -1719272694757327267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_24
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 219
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4feb134fdc0d71770800000000000000
+      internalID: 8581557197961543412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_25
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 210
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7f6fd19ea4fb300800000000000000
+      internalID: 270016867756079055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_26
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 219
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bc5be1320c27970800000000000000
+      internalID: 8751268283005914000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_27
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 219
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532b7a39afcc14d60800000000000000
+      internalID: 7872799000211468853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 125
+        width: 45
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aac3c7ac043ebf40800000000000000
+      internalID: 5746087403530209955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_29
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 125
+        width: 45
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27121a51f3de21ea0800000000000000
+      internalID: -5903395306327694990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 92
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f78edc0ef27016a0800000000000000
+      internalID: -6480553428322973709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 114
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3117640d34da49ea0800000000000000
+      internalID: -5866873907788222189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_32
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 92
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007b7b3c51062d5a0800000000000000
+      internalID: -6498025665748027648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_33
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 92
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052557cf697e710b0800000000000000
+      internalID: -5757878962903231920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_34
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 92
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523dda2458b7400b0800000000000000
+      internalID: -5763345810847837403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_35
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 114
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84abcdd22f191a50800000000000000
+      internalID: 6492254572441740428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_36
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 92
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91a505604ad80c90800000000000000
+      internalID: -7203267633871478369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_37
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 92
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f963152de0b3e20800000000000000
+      internalID: 3331272645839069074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_38
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 83
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2889bd75fbd7f600800000000000000
+      internalID: 502111730897881133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_39
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 81
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a8d5aa08a9b3d40800000000000000
+      internalID: 5565211641951128177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_40
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 83
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81a903ddbfa8c890800000000000000
+      internalID: -7437501554778070641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_41
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 83
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35976661554337150800000000000000
+      internalID: 5869092279446567251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_42
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 81
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cc1e47318fcb700800000000000000
+      internalID: 557593216336120896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_43
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 83
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7deeb0ad7128c9b0800000000000000
+      internalID: -5059757357899256453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 133
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4188b2a6aebe5490800000000000000
+      internalID: -7755551885381566132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_45
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 19
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b945ec4f0302950c0800000000000000
+      internalID: -4586599350862457701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_46
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a2f03280a43c1d0800000000000000
+      internalID: -3331737900515644920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_47
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 142
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d506d5ac64da74f60800000000000000
+      internalID: 8018568181110890589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_48
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2dde280fe801ac90800000000000000
+      internalID: -7160432109814883029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_49
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 19
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4460ad2fe80d71560800000000000000
+      internalID: 7284520234673374788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_50
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 134
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b7196960790c600800000000000000
+      internalID: 486554814307728282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_51
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 8
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6daaa0c60d751e10800000000000000
+      internalID: 2167776263604448623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_52
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 9
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b982c66b62f41c630800000000000000
+      internalID: 3945521776241158299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_53
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 9
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676136b98902eae00800000000000000
+      internalID: 1057818802292725366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_54
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 8
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0a561e8d9a37d30800000000000000
+      internalID: 4428069607594893501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_55
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28000c65f84d5e970800000000000000
+      internalID: 8783660360356855938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option mentu_56
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc1b2f6ae9496070800000000000000
+      internalID: 8100086676038819033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

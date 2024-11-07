@@ -2,13 +2,19 @@ using UnityEngine;
 
 public class FallingObjects : MonoBehaviour
 {
-    public Animator animator;
+
+    Music music;
+
+    private void Awake()
+    { 
+        music = GameObject.FindWithTag("Music").GetComponent<Music>(); //finds the music object and gets the music script
+    }
+
     Score main;
     Transform tr;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start() //`Start` is called once before the first execution of `Update` after the MonoBehaviour is created
+    private void Start() //`Start` is called once before the first execution of `Update` after the MonoBehaviour is created
     {
-        animator = GetComponent<Animator>();
         tr= GetComponent<Transform>();
         main = GameObject.Find("FallingObjects").GetComponent<Score>(); // Get the reference to the main script
     }
@@ -29,6 +35,7 @@ public class FallingObjects : MonoBehaviour
         if (collison.gameObject.CompareTag("Player")) // Check if the object collided with the player
         {
             Destroy(gameObject); // Destroy the object if it collides with the player
+            music.PlaySound(music.CandyCapture); // Play the "CandyCapture" sound effect from the audio manager
             main.AddScore(); // Call the AddScore function from the main script to increase the player's score
         }
     }

@@ -11,6 +11,11 @@ public class MainMenu : MonoBehaviour
         SceneManager.LoadSceneAsync(1); //Load the game scene
     }
 
+    public void OptionsMenu()
+    {
+        SceneManager.LoadSceneAsync(3); //Load the option scene
+    }
+
     public void QuitGame()
     {
         Application.Quit(); //Quit the game
