@@ -2,35 +2,35 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    public Animator animator;
+    
+    public Rigidbody2D rb;
     private float horizontal;
+    private float jumpingPower = 200f;
+    public Animator animator;
+  
     private float speed = 350f;
-    private float jumpingPower = 400f;
+
     private bool isFacingRight = true;
 
-    [SerializeField] private Rigidbody2D rb;
+   
     [SerializeField] private Transform groundCheck;
     [SerializeField] private LayerMask groundLayer;
 
     void Start()
     {
         animator = GetComponent<Animator>();
+        rb = GetComponent<Rigidbody2D>();
     }
 
 
     void Update()
     {
         horizontal = Input.GetAxisRaw("Horizontal");
+        animator.SetFloat("speed", Mathf.Abs(horizontal));
 
-        if (Input.GetButtonDown("Jump") && IsGrounded())
+        if (Input.GetButtonDown("Jump"))
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpingPower);
-            animator.SetBool("isJumping", true);
-        }
-
-        if (Input.GetButtonUp("Jump") && rb.linearVelocity.y > 0f)
-        {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y * 0.5f);
         }
 
         Flip();
@@ -39,11 +39,6 @@ public class PlayerMovement : MonoBehaviour
     private void FixedUpdate()
     {
         rb.linearVelocity = new Vector2(horizontal * speed, rb.linearVelocity.y);
-    }
-
-    private bool IsGrounded()
-    {
-        return Physics2D.OverlapCircle(groundCheck.position, 0.2f, groundLayer);
     }
 
     private void Flip()
@@ -56,16 +51,5 @@ public class PlayerMovement : MonoBehaviour
             transform.localScale = localScale;
         }
     }
-    public void onLanding(){
-        animator.SetBool("isJumping", false);
-    }
 
-    void Collison (Collider2D collison)
-    {
-        if (collison.gameObject.CompareTag("Audio")) // Check if the object collided with the player
-        {
-            Destroy(gameObject); // Destroy the object if it collides with the player
-            animator.SetBool("isCollide", true);
-        }
-    }
 }
